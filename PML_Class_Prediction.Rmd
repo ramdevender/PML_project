@@ -1,7 +1,6 @@
 ---
 title: "PML_Class_Prediction"
 author: "RDK"
-date: "Sunday, November 23, 2014"
 output: html_document
 ---
 
@@ -45,7 +44,7 @@ validation <- trainingraw[-inTrain,]
 
 training<-training[,colSums(is.na(training)) == 0]
 classe<-training$classe
-nums <- sapply(training, is.numeric)'
+nums <- sapply(training, is.numeric)
 training<-cbind(classe,training[,nums])
 training$X<-training$num_window<-NULL
 
