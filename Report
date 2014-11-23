@@ -1,5 +1,6 @@
-Human Activity Recognition Pavani Allam
-July 27, 2014
+Human Activity Recognition 
+RDK
+Nov 15, 2014
 
 Executive Summary
 This detailed analysis has been performed to fulfill the requirements of the course project for the course Practical Machine Learning offered by the Johns Hopkins University on Coursera. Using devices such as Jawbone Up, Nike FuelBand, and Fitbit, it is now possible to collect a large amount of data about personal activity relatively inexpensively. One thing that people regularly do is quantify how much of a particular activity they do, but they rarely quantify how well they do it. In this project, our goal will be to use data from accelerometers on the belt, forearm, arm, and dumbell of 6 participants. They were asked to perform barbell lifts correctly and incorrectly in 5 different ways.
